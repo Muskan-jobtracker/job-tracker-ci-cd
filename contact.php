@@ -12,7 +12,7 @@ if (isset($_POST['send_message'])) {
     $message = trim($_POST['message']);
 
     $stmt = $conn->prepare(
-        "INSERT INTO contact_messages (name, email, message)
+        "INSERT INTO contact_messages (name, email)
          VALUES (?, ?, ?)"
     );
 
