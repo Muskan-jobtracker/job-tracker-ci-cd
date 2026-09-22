@@ -5,7 +5,7 @@ include "auth.php";
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About - Job Tracker</title>
+    <title>About - Job Tracker Application</title>
 
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
