@@ -184,7 +184,7 @@ include "auth.php";
     </a>
 
     <a href="add_job.php">
-        ➕ Add Job
+        ➕ Add New Job
     </a>
 
     <a href="about.php">
