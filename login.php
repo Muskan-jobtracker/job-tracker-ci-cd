@@ -115,7 +115,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <div class="container">
 
-    <h1>🔐 Login</h1>
+    <h1>🔐LOGIN PAGE</h1>
 
     <?php
 
