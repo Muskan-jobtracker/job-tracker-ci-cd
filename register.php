@@ -157,7 +157,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             required
         >
 
-        <button type="submit">
+        <button type="Submit">
             Register
         </button>
 
