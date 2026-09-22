@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $location = trim($_POST['location']);
     $education = trim($_POST['education']);
     $skills = trim($_POST['skills']);
-    $linkedin = trim($_POST['linkedin']);
+  //  $linkedin = trim($_POST['linkedin']);
     $github = trim($_POST['github']);
 
     $update_sql = "UPDATE users SET
